@@ -1,9 +1,0 @@
-[submodule "knockknock-front"]
-	path = knockknock-front
-	url = https://github.com/Dtoyou/knockknock-frontend.git
-[submodule "knockknock-back"]
-	path = knockknock-back
-	url = https://github.com/Dtoyou/knockknock-backend.git
-[submodule "knockknock-algorithm"]
-	path = knockknock-algorithm
-	url = https://github.com/Dtoyou/knockknock-algorithm.git
