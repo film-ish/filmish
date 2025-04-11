@@ -1,3 +1,9 @@
-[submodule "S12P21D207"]
-	path = S12P21D207
-	url = https://lab.ssafy.com/s12-bigdata-recom-sub1/S12P21D207.git
+[submodule "knockknock-front"]
+	path = knockknock-front
+	url = https://lab.ssafy.com/kw3082/knockknock-front.git
+[submodule "knockknock-back"]
+	path = knockknock-back
+	url = https://lab.ssafy.com/kw3082/knockknock-back.git
+[submodule "knockknock-algorithm"]
+	path = knockknock-algorithm
+	url = https://lab.ssafy.com/gangcat/knockknock-algorithm.git
