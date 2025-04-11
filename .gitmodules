@@ -1,9 +1,9 @@
 [submodule "knockknock-front"]
 	path = knockknock-front
-	url = https://lab.ssafy.com/kw3082/knockknock-front.git
+	url = https://github.com/Dtoyou/knockknock-frontend.git
 [submodule "knockknock-back"]
 	path = knockknock-back
-	url = https://lab.ssafy.com/kw3082/knockknock-back.git
+	url = https://github.com/Dtoyou/knockknock-backend.git
 [submodule "knockknock-algorithm"]
 	path = knockknock-algorithm
-	url = https://lab.ssafy.com/gangcat/knockknock-algorithm.git
+	url = https://github.com/Dtoyou/knockknock-algorithm.git
