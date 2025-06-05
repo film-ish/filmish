@@ -1,9 +1,9 @@
-[submodule "knockknock-frontend"]
-	path = knockknock-frontend
-	url = https://github.com/Dtoyou/knockknock-frontend.git
-[submodule "knockknock-backend"]
-	path = knockknock-backend
-	url = https://github.com/Dtoyou/knockknock-backend.git
-[submodule "knockknock-algorithm"]
-	path = knockknock-algorithm
-	url = https://github.com/Dtoyou/knockknock-algorithm.git
+[submodule "filmish-frontend"]
+	path = filmish-frontend
+	url = https://github.com/film-ish/filmish-frontend.git
+[submodule "filmish-backend"]
+	path = filmish-backend
+	url = https://github.com/film-ish/filmish-backend.git
+[submodule "filmish-algorithm"]
+	path = filmish-algorithm
+	url = https://github.com/film-ish/filmish-algorithm.git
